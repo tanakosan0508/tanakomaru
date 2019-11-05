@@ -3,11 +3,11 @@
     }
     
     @IBAction func tapChoki(sender: AnyObject) {
-        playerHand.text = "チョキーだバーカ"
+        playerHand.text = "チョキー"
     }
     
     @IBAction func tapPa(sender: AnyObject) {
-        playerHand.text = "パー！！！！！！！！！！！！！！！！！！！"
+        playerHand.text = "パー！"
     }
     
     //CPU処理
